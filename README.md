@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NANDAELAVARASU KRISHNAMOORTHY</h1>
-<h3 align="center">A Enthusiastic Full stack Developer developer from India</h3>
+<h3 align="center">A Enthusiastic Full stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Hotel Room Booking**
 
